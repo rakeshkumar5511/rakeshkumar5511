@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Rakesh Kumar
 
 🚀 Passionate about Coding, Technology & Learning New Skills
