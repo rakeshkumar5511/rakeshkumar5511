@@ -10,7 +10,7 @@
 🌱 Currently learning **Django, JavaScript & Backend Development**
 🎯 Goal: To become a **skilled Software Developer**
 🧠 Exploring **Python, Frontend Development & Django Projects**
-📫 Reach me at: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+📫 Reach me at: **[rakesh.jhkumar1122@gmail.com](mailto:your-email@gmail.com)**
 😄 Pronouns: **He/Him**
 ⚡ Fun Fact: **I enjoy building projects and learning new technologies every day 💻**
 
