@@ -31,9 +31,9 @@ Git, GitHub, VS Code
 
 ## 📈 Currently Working On
 
-🔹 Django Based Web Applications
-🔹 Improving JavaScript Skills
-🔹 Building Small Web Development Projects
+🔹 Django Based Web Applications<br>
+🔹 Improving JavaScript Skills<br>
+🔹 Building Small Web Development Projects<br>
 
 ---
 
